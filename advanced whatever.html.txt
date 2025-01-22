@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/959.jpg"alt="Castle"/>
+      <img src="images/1.jpg"alt="Castle"/>
     </td>
   <td>
     <h2>Castle</h2>
@@ -11,14 +11,7 @@
   <h3>other images by</h3>
   <table>
     <tr>
-      <td><img src="images/464.jpg"/></td>
-      <td><img src="images/537.jpg"/></td>
+      <td><img src="images/2.jpg"/></td>
+      <td><img src="images/3.jpg"/></td>
     </tr>
-    <tr>
-      <td><img src="images/700.jpg"/></td>
-      <td><img src="images/828.jpg"/></td>
-    </tr>
-  </table>
-  </td>
-  </tr>
-</table>
+  </table>  
